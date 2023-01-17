@@ -4,11 +4,11 @@
   </tr>
   <tr>
     <td align="center">
-     <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.classic.svg" alt=""></img>
+     <img alt="" width="400" src="https://github.com/AurelienADVANCED/AurelienADVANCED/blob/main/metrics.classic.svg" alt=""></img>
     </td>
   </tr>
   <tr>
-    <th><a href="source/plugins/isocalendar/README.md">📅 Isometric commit calendar</a></th>
+    <th><a href="source/plugins/isocalendar/README.md">📅 Calendrier de commit isométrique</a></th>
   </tr>
   <tr>
         <td  align="center">
