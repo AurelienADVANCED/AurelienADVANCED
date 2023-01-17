@@ -1,12 +1,11 @@
 <table>
   <tr>
     <th align="center">Utilisateur</th>
-    <th align="center">Organisation</th>
   </tr>
   <tr>
     <td align="center">
-<img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.classic.svg" alt=""></img>
-</td>
+     <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.classic.svg" alt=""></img>
+    </td>
   </tr>
   <tr>
     <th><a href="source/plugins/isocalendar/README.md">📅 Isometric commit calendar</a></th>
