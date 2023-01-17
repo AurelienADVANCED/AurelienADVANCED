@@ -8,9 +8,7 @@
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
             <section>
                 <h1 class="field">
-                    <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUA
-AAAFCAYAAACNbyblAAAAHElEQVQI12P4//8/w38GIAXDIBKE0DHxgljNBAAO
-    9TXL0Y4OHwAAAABJRU5ErkJggg==" width="20" height="20" />
+                    <img class="avatar" src="data:image/webp;base64,UklGRmQDAABXRUJQVlA4IFgDAACQDwCdASooACgAPm0wk0ekIqGhJypIgA2JZACpJxfJkTe+hBLt7rty3nqsn+C/ixBnnIRnb028yTm8P4w3m7+o//F7gf61dYP0ZijV+DSewZPmcjoTCrto+78dYh69CVM1+HCw6zRdFnjMWrwsOIyie0yGlQ0j6wvvG2aV9AdUjhNtIZlgAP790RfXDxveY6KKyuMDa0GCcVYQm0sPz5WRygTyzabQ+OITeyjanS4LPn9Tu4dCsob+3NamNI0NrKyxnkAubLK2G1n7iu3PHIg8XSiNNbcE1ypTkEBADqP71XTSxuRhktZlCFULcZO+2wIKJ7CfYLWT5X/ME/cUTA7CF7icQNJ+fOClzsgGFii4XEDHj+Y55StsWsGaijZNhdhP/vM4XggIKnHVmE+VqnWSNezxT80VO+C/SEe1+r+uNMv8gIQkBT3LPf8O7sEtpGLknTL0yOh3o79HraXEJ/399d/b7RbqgljFQy9s5DmP/Monz9MeQTGLBBGbfC/2f6+2UFoRuuh0KYSpY+t4+FsYCMrKTzFLJQrbF1gzuwLy+cWwpxKSIhwl4R/NXK0YnOjaPtVNnSW7r/ss8NWIe0IXfsrnwdUSikn9ueHcpALJHeWTcaMe0fu+E0tSn3YgDWtfHbNPXeP3T+32eSBv425CU+rZeQS8wFFKRe2SR1apJdS6pZGcdZYsX2iumi2VXz3hx5Wf2fKrpritaP3m2giw6pHEszL2M5Negc8lD5kkzGOIjvWJOp+2npnSHok9EZXnx0qEZBVmemNy5pndLzY1ofXNUmFGobgjgMcGr4qdrpnQ36zc5SoTSimSc7zFY6+bAYAV8pbQi8KaDJ8DEegIzd7+PGZFXfmLzDPDSn6SHZ/aK6pt7UHpcxsw1le+lLObNxBtwDD9lTqAgY2uoRbwtZuptihfmZCBZ+LlXdhSKWOeMrNpfDbS6m7fZ8EjHOuT+mY+Y+sYHKW7jxWodBpdoc2O/gCAh5qeid+SSVx3TuhD7yXy0T8Z4/07LRkUMy2oAgJ5L/933fTs2Ga2Zf9cZdJOTtiyeNun2Lzh4KZdNTs6jYrcSkzDUZX/GCmb0EaxujVvn5ZY/SxQU0segq7Cmz6Si06svCkwitJQNliJYGIA9uHDJgAA" width="20" height="20" />
                     <span>AurelienAVANCED</span>
                 </h1>
                 <div class="row">
