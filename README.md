@@ -13,7 +13,7 @@
   <tr>
         <td  align="center">
         <details open><summary>Full year calendar</summary><img alt="" width="400" src="https://github.com/AurelienADVANCED/AurelienADVANCED/blob/main/metrics.plugin.isocalendar.fullyear.svg" alt=""></img></details>
-        <details><summary>Half year calendar</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.svg" alt=""></img></details>
+        <details><summary>Half year calendar</summary><img alt="" width="400" src="https://github.com/AurelienADVANCED/AurelienADVANCED/blob/main/metrics.plugin.isocalendar.svg" alt=""></img></details>
         <img width="900" height="1" alt="">
       </td>
   </tr> 
