@@ -16,7 +16,7 @@
 
 ### 💻 About Me :
 
-- :telescope: Je suis actuellement étudient a l'UIT de metz
+- :telescope: Je suis actuellement étudiant a l'UIT de metz
 
 - :mailbox: Pour me contacter : [![Linkedin Badge](https://img.shields.io/badge/-AurelienADVANCED-red?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aurelien-rosello/)
 ---
