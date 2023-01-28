@@ -1,21 +1,42 @@
-<table>
-  <tr>
-    <th align="center">Utilisateur</th>
-  </tr>
-  <tr>
-    <td align="center">
-     <img alt="" width="400" src="https://github.com/AurelienADVANCED/AurelienADVANCED/blob/main/metrics.classic.svg" alt=""></img>
-    </td>
-  </tr>
-  <tr>
-    <th><a href="source/plugins/isocalendar/README.md">📅 Calendrier de commit isométrique</a></th>
-  </tr>
-  <tr>
-        <td  align="center">
-        <details open><summary>Full year calendar</summary><img alt="" width="400" src="https://github.com/AurelienADVANCED/AurelienADVANCED/blob/main/metrics.plugin.isocalendar.fullyear.svg" alt=""></img></details>
-        <details><summary>Half year calendar</summary><img alt="" width="400" src="https://github.com/AurelienADVANCED/AurelienADVANCED/blob/main/metrics.plugin.isocalendar.svg" alt=""></img></details>
-        <img width="900" height="1" alt="">
-      </td>
-  </tr> 
-  </table>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/aurelien-rosello/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+### 💻 About Me :
+
+- :telescope: Je suis actuellement étudient a l'UIT de metz
+
+- :mailbox: Pour me contacter : [![Linkedin Badge](https://img.shields.io/badge/-AurelienADVANCED-red?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aurelien-rosello/)
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+
+---
+
+### :fire: My Stats :
+
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AurelienADVANCED&theme=dark&border_radius=25&locale=fr)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AurelienADVANCED)
