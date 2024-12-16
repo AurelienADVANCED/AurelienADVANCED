@@ -37,6 +37,4 @@
 
 ### :fire: My Stats :
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AurelienADVANCED&theme=dark&border_radius=25&locale=fr)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AurelienADVANCED)
