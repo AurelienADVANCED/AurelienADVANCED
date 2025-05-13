@@ -39,12 +39,6 @@
 
 ---
 
-### 📦 **Package Managers**  
-![Composer](https://img.shields.io/badge/Composer-6D7C94?style=for-the-badge&logo=composer&logoColor=white) 
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-
----
-
 ### 🧩 **ORM**  
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C.svg?style=for-the-badge&logo=hibernate&logoColor=white)
